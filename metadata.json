@@ -1,0 +1,28 @@
+{
+  "name": "DavidS-foods",
+  "author": "david",
+  "description": "This module is a test-bed for new techniques and patterns for building modules.",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "A module for the imaginary FooDS software.",
+  "version": "0.0.1",
+  "checksums": {
+    "Modulefile": "4e4034314fe311831dea13dc5bb8071c",
+    "README": "07c06fbd7e9b0e96ee24bfc57683ad7e",
+    "files/debian-6-0-2/foods.cfg": "235bb5d1ca1705152e4d7466547ae2ad",
+    "files/fedora-15/foods.cfg": "0b267e55ec60e529a74518c879c31091",
+    "files/foods-v1/foods.cfg": "235bb5d1ca1705152e4d7466547ae2ad",
+    "files/foods-v2/foods.cfg": "0b267e55ec60e529a74518c879c31091",
+    "lib/puppet/parser/functions/classname.rb": "621005a4c8306ba7b007e39e9ad1462c",
+    "manifests/config_file.pp": "15a78ce655cb003e361f6aa4f20a6421",
+    "manifests/init.pp": "7108114238c5e776f56714c734ffbb21",
+    "manifests/policy/default.pp": "f2d6c080d48f56a7d59eef5e16f0df83",
+    "manifests/provider/debian-6-0-2.pp": "536845a4d9cb9b6f79b981dcd117349c",
+    "manifests/provider/fedora-15.pp": "8991cc701e77211cc1cb2eb27980a681",
+    "manifests/provider/foods-v1.pp": "a20898368187e3d82bd54ed5c292f9f8",
+    "manifests/provider/foods-v2.pp": "6d73cd9390d8101f4be36d34a37a9ca9",
+    "manifests/resources.pp": "3448de2a7a0e26a4eed35c8a94b3616a"
+  },
+  "dependencies": []
+}
